@@ -1,0 +1,5 @@
+Le Tower Defense est un genre de jeu vidéo stratégique qui met les joueurs au défi de défendre un point d'objectif,
+souvent représenté par une base ou un cristal, contre des vagues successives d'ennemis.
+L'élément distinctif de ce genre réside dans la construction et le placement stratégique de tours de défense sur une carte prédéfinie.
+Chaque tour possède des caractéristiques uniques, telles que la portée, la puissance de feu et la cadence de tir,
+offrant aux joueurs la possibilité de créer des stratégies diversifiées pour contrer les différents types d'ennemis.
